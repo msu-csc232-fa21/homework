@@ -4,7 +4,9 @@ A repository of supplemental material used in CSC232 - Data Structures
 
 ## GitHub Classroom Assignment Links
 
-Below is a table of links to the GitHub Assigments that were delivered via Blackboard. They are replicated here merely for your convience. Submissions of all assignments take place within Blackboard. These links merely create the repository in your GitHub account. Thus, this link should only be followed once, when you're ready to accept the assignment. Complete instructions are found in Blackboard.
+Below is a table of links to the GitHub Assigments that were delivered via Blackboard. They are replicated here merely for your convience. Submissions of all assignments take place within Blackboard. These links merely create the repository in your GitHub account. Thus, these links should only be followed once, when you're ready to accept the corresponding assignment.
+
+Complete instructions are found in Blackboard.
 
 Homework Title                                                                         | Counts? | Due Date*  | Resubmission Due Date
 ---------------------------------------------------------------------------------------|---------|------------|----------------------
